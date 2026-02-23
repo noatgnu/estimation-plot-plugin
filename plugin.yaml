@@ -4,6 +4,7 @@ plugin:
   name: "Estimation Plot"
   description: "Generate estimation plots with effect sizes using DABEST"
   version: "1.0.0"
+  repository: "https://github.com/noatgnu/estimation-plot-plugin"
   author: "CauldronGO Team"
   category: "visualization"
   icon: "show_chart"
